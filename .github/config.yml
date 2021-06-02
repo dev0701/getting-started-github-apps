@@ -3,7 +3,7 @@
 # *OPTIONAL* Comment to reply with
 # Can be either a string :
 requestInfoReplyComment: >
-  Changed the comment as per github instructions/pr!
+  Hello, you triggered the application to reply by not adding enough information to your pull request!
 
 # Or an array:
 # requestInfoReplyComment:
